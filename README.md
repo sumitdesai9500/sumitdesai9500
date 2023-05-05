@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitdesai9500" alt="sumitdesai9500" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **JAVA** **&** **Some Designing Softwares**
 
 - 👨‍💻 All of my projects are available at [https://sumitdesai.netlify.app/](https://sumitdesai.netlify.app/)
 
