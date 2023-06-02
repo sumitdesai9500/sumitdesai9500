@@ -30,3 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitdesai9500&show_icons=true&locale=en" alt="sumitdesai9500" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitdesai9500&" alt="sumitdesai9500" /></p>
+
+<img src="https://raw.githubusercontent.com/sumitdesai9500/sumitdesai9500/output/snake.svg" alt="Snake animation" />
+
+###
