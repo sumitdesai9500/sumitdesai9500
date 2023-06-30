@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **designs and improvements in Designs**
 
-- 📫 How to reach me **sumitdesai9500@gmail.com**
+- 📫 Reach me at **sumitdesai9500@gmail.com**
 
 - ⚡ Fun fact **i love playing games**
 
