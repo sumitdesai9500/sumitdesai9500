@@ -14,7 +14,7 @@
 
 - 📫 Reach me at **sumitdesai9500@gmail.com**
 
-- ⚡ Fun fact **i love playing games**
+- ⚡ Fun fact **I love playing games and can recommend you some 😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
