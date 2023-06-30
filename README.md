@@ -1,4 +1,4 @@
-[![MasterHead](https://imgs.search.brave.com/3tvQF4j-W-dW8EVgb0n-PLWYPZKMMcQ_-FSw07Mw1dQ/rs:fit:500:150:1/g:ce/aHR0cDovL2Jlc3Rh/bmltYXRpb25zLmNv/bS9TY2ktRmkvc3Rh/ci10cmF2ZWxpbmct/YW5pbWF0ZWQtZ2lm/LXNjaS1maS1pbWFn/ZS5naWY.gif)](https://sumitdesai.netlify.app/)
+<[![MasterHead](https://imgs.search.brave.com/3tvQF4j-W-dW8EVgb0n-PLWYPZKMMcQ_-FSw07Mw1dQ/rs:fit:500:150:1/g:ce/aHR0cDovL2Jlc3Rh/bmltYXRpb25zLmNv/bS9TY2ktRmkvc3Rh/ci10cmF2ZWxpbmct/YW5pbWF0ZWQtZ2lm/LXNjaS1maS1pbWFn/ZS5naWY.gif)](https://sumitdesai.netlify.app/) style="width:200px; height:200px>
 ### Hi there this is Sumit Desai👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=800&height=70&center=true&size=37&lines=Hi+there,++Buddy+👋;This+is+Sumit+Desai++🙋🏻‍♂️;Welcome+To+My+Github+Profile++😊)](https://git.io/typing-svg)
 <h3 align="center">A passionate UI/UX Designer from India, With also interest in App development.</h3>
