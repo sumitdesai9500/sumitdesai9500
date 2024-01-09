@@ -1,7 +1,7 @@
 [![MasterHead](https://imgs.search.brave.com/3tvQF4j-W-dW8EVgb0n-PLWYPZKMMcQ_-FSw07Mw1dQ/rs:fit:500:150:1/g:ce/aHR0cDovL2Jlc3Rh/bmltYXRpb25zLmNv/bS9TY2ktRmkvc3Rh/ci10cmF2ZWxpbmct/YW5pbWF0ZWQtZ2lm/LXNjaS1maS1pbWFn/ZS5naWY.gif)width:500px; height:300px](https://sumitdesai.netlify.app/)
 ### Hi there this is Sumit Desai👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=800&height=70&center=true&size=37&lines=Hi+there,++Buddy+👋;This+is+Sumit+Desai++🙋🏻‍♂️;Welcome+To+My+Github+Profile++😊)](https://git.io/typing-svg)
-<h3 align="center">A passionate UI/UX Designer from India, With also interest in App development.</h3>
+<h3 align="center">A passionate UI/UX Designer from India, With also interest in development.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitdesai9500&label=Profile%20views&color=0e75b6&style=flat" alt="sumitdesai9500" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitdesai9500" alt="sumitdesai9500" /></a> </p>
